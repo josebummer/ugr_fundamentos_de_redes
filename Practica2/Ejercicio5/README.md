@@ -2,11 +2,11 @@
 
 
 
-Guillermo Gomez Trenado
+Guillermo Gomez Trenado --> https://github.com/guillermogotre
 
 
 
-Adrian Pelaez Vegas
+Adrian Pelaez Vegas --> https://github.com/Adri6
 
 
 
