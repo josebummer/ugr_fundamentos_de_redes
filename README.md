@@ -1,13 +1,10 @@
 # Practicas Fundamentos de Redes
 
+Practicas realizadas junto a:
 
 
-Guillermo Gomez Trenado --> https://github.com/guillermogotre
-
-
-
-Adrian Pelaez Vegas --> https://github.com/Adri6
+Guillermo Gómez Trenado--> [@guillermogotre](https://github.com/guillermogotre)
 
 
 
-Jose Antonio Ruiz Millan
+Adrian Peláez Vegas --> [@Adri6](https://github.com/Adri6)
