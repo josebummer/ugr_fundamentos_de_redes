@@ -1,4 +1,4 @@
-# Practicas Fundamentos de Redes
+# Practicas Fundamentos de Redes (UGR)
 
 Practicas realizadas junto a: [@guillermogotre](https://github.com/guillermogotre) y Adrian Peláez Vegas --> [@Adri6](https://github.com/Adri6).
 
